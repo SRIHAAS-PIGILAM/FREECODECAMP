@@ -11,6 +11,7 @@ parts = pieces[3].split('-')
 n = parts[1] in the context of Python for Everybody - Strings and Lists | Learn | freeCodeCamp.org
 
 chat sonic(ai-by opera gx gaming browser)
+
 The code splits a sentence into words using the 
 split()
  method and assigns the resulting list to the variable 
